@@ -1,6 +1,6 @@
-name: matchreminder # 这是你的插件的唯一识别名。
+name: astrbot_plugin_matchreminder # 这是你的插件的唯一识别名。
 desc: 算法比赛查询和今日比赛自动提醒 - 支持CF、牛客、AtCoder平台 # 插件简短描述
-version: v1.0.0 # 插件版本号。
+version: v1.0.3 # 插件版本号。
 author: LuBanQAQ # 作者
 repo: https://github.com/LuBanQAQ/astrbot_plugin_matchreminder # 插件的仓库地址
 

@@ -7,7 +7,7 @@ import asyncio
 from datetime import datetime, timedelta
 from typing import Optional
 
-@register("matchreminder", "YourName", "算法比赛查询和今日比赛自动提醒", "1.0.0")
+@register("matchreminder", "LuBanQAQ", "算法比赛查询和今日比赛自动提醒", "1.0.3")
 class MatchReminderPlugin(Star):
     """
     算法比赛提醒插件
